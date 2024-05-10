@@ -2,8 +2,6 @@ package cz.czechitas.java2webapps.ukol3.controller;
 
 import cz.czechitas.java2webapps.ukol3.entity.BusinessCard;
 import org.springframework.stereotype.Service;
-
-import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 

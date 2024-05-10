@@ -1,7 +1,5 @@
 package cz.czechitas.java2webapps.ukol3.entity;
 
-import java.time.LocalDate;
-
 public class BusinessCard {
     private String name;
     private String company;
