@@ -8,7 +8,6 @@ public class BusinessCard {
     private String email;
     private String telephone;
     private String webAddress;
-    private int id;
 
     public BusinessCard() {
     }
@@ -21,10 +20,6 @@ public class BusinessCard {
         this.email = email;
         this.telephone = telephone;
         this.webAddress = webAddress;
-    }
-    
-    public int getId() {
-        return id;
     }
 
     public String getAddress() {
